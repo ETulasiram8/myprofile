@@ -1,0 +1,47 @@
+* {
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+.profileimage {
+    height:65vh; 
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.custom-bg-color {
+    background-color: rgb(209 250 229);
+}
+.custom-font {
+    font-size:50px;
+}
+.bi {
+    font-size: 35px; 
+    margin-left: 20px;
+}
+.fa-html5,.fa-js,.fa-react {
+    padding:20px;
+    font-size: 85px;
+    color:rgb(16 185 129);
+}
+.custom-color-para {
+    color:rgb(106 122 144);
+}
+.codeImage {
+    height:45vh;
+}
+.custom-main-bg {
+    background-color: rgb(248 250 252);
+}
+.custom-border {
+    border-bottom-left-radius:15px;
+    border-bottom-right-radius:15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius:15px ;
+}
+.custom-image {
+    border-top-left-radius: 15px;
+    border-top-right-radius:15px ;
+}
+.custom-border:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}

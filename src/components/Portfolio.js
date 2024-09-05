@@ -29,12 +29,12 @@ function MyPortfolio() {
                                     <p className="card-text fs-5">Turning ideas into interactive reality.</p>
                                     <ul className="list-inline list-unstyled">
                                         <li className="list-inline-item">
-                                            <a href="https://github.com/ETulasiram8" target="_blank">
+                                            <a href="https://github.com/ETulasiram8" target="_blank" rel="noreferrer">
                                                 <i className="bi bi-github text-secondary"></i>
                                             </a>
                                         </li>
                                         <li className="list-inline-item">
-                                            <a href="https://www.linkedin.com/in/e-tulasi-ram-a70a9a264/" target="_blank">
+                                            <a href="https://www.linkedin.com/in/e-tulasi-ram-a70a9a264/" target="_blank" rel="noreferrer">
                                                 <i className="bi bi-linkedin text-secondary"></i>
                                             </a>
                                         </li>
